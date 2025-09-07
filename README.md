@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/code-with-deep/DSA-with-C-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-deep/DSA-with-C-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/code-with-deep/DSA-with-C-/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
@@ -67,6 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0237-delete-node-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
