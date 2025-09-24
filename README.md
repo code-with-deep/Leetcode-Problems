@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/code-with-deep/DSA-with-C-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/code-with-deep/DSA-with-C-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-deep/DSA-with-C-/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/code-with-deep/DSA-with-C-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/code-with-deep/DSA-with-C-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-deep/DSA-with-C-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
