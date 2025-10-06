@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/code-with-deep/DSA-with-C-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/code-with-deep/DSA-with-C-/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/code-with-deep/DSA-with-C-/tree/master/0943-sum-of-subarray-minimums) |
+| [1751-slowest-key](https://github.com/code-with-deep/DSA-with-C-/tree/master/1751-slowest-key) |
 | [2227-sum-of-subarray-ranges](https://github.com/code-with-deep/DSA-with-C-/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/code-with-deep/DSA-with-C-/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/code-with-deep/DSA-with-C-/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/code-with-deep/DSA-with-C-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1751-slowest-key](https://github.com/code-with-deep/DSA-with-C-/tree/master/1751-slowest-key) |
 | [2032-largest-odd-number-in-string](https://github.com/code-with-deep/DSA-with-C-/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
