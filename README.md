@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/code-with-deep/DSA-with-C-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/code-with-deep/DSA-with-C-/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/code-with-deep/DSA-with-C-/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/code-with-deep/DSA-with-C-/tree/master/1046-max-consecutive-ones-iii) |
 | [1751-slowest-key](https://github.com/code-with-deep/DSA-with-C-/tree/master/1751-slowest-key) |
 | [2227-sum-of-subarray-ranges](https://github.com/code-with-deep/DSA-with-C-/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
@@ -128,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/code-with-deep/DSA-with-C-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/code-with-deep/DSA-with-C-/tree/master/0735-asteroid-collision) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/code-with-deep/DSA-with-C-/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/code-with-deep/DSA-with-C-/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/code-with-deep/DSA-with-C-/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
