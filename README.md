@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/code-with-deep/DSA-with-C-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-with-deep/DSA-with-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/code-with-deep/DSA-with-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/code-with-deep/DSA-with-C-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-with-deep/DSA-with-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0148-sort-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/code-with-deep/DSA-with-C-/tree/master/0151-reverse-words-in-a-string) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/code-with-deep/DSA-with-C-/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/code-with-deep/DSA-with-C-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-deep/DSA-with-C-/tree/master/0451-sort-characters-by-frequency) |
