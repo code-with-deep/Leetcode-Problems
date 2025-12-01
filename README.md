@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/code-with-deep/DSA-with-C-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-with-deep/DSA-with-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/code-with-deep/DSA-with-C-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/code-with-deep/DSA-with-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/code-with-deep/DSA-with-C-/tree/master/0682-baseball-game) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/code-with-deep/DSA-with-C-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-with-deep/DSA-with-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/code-with-deep/DSA-with-C-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/code-with-deep/DSA-with-C-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/code-with-deep/DSA-with-C-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/code-with-deep/DSA-with-C-/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/code-with-deep/DSA-with-C-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/code-with-deep/DSA-with-C-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-deep/DSA-with-C-/tree/master/0451-sort-characters-by-frequency) |
