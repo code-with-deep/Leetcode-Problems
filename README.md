@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/code-with-deep/DSA-with-C-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-with-deep/DSA-with-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/code-with-deep/DSA-with-C-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/code-with-deep/DSA-with-C-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/code-with-deep/DSA-with-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0209-minimum-size-subarray-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/code-with-deep/DSA-with-C-/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/code-with-deep/DSA-with-C-/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/code-with-deep/DSA-with-C-/tree/master/0053-maximum-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/code-with-deep/DSA-with-C-/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
