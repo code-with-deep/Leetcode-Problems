@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/code-with-deep/DSA-with-C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/code-with-deep/DSA-with-C-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/code-with-deep/DSA-with-C-/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/code-with-deep/DSA-with-C-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/code-with-deep/DSA-with-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/code-with-deep/DSA-with-C-/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/code-with-deep/DSA-with-C-/tree/master/0152-maximum-product-subarray) |
 | [0943-sum-of-subarray-minimums](https://github.com/code-with-deep/DSA-with-C-/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
