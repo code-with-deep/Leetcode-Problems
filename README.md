@@ -183,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/code-with-deep/DSA-with-C-/tree/master/1046-max-consecutive-ones-iii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/code-with-deep/DSA-with-C-/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
