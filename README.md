@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/code-with-deep/DSA-with-C-/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/code-with-deep/DSA-with-C-/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/code-with-deep/DSA-with-C-/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/code-with-deep/DSA-with-C-/tree/master/0904-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/code-with-deep/DSA-with-C-/tree/master/0943-sum-of-subarray-minimums) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/code-with-deep/DSA-with-C-/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/code-with-deep/DSA-with-C-/tree/master/1046-max-consecutive-ones-iii) |
 ## Database
 |  |
