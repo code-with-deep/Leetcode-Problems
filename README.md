@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/code-with-deep/DSA-with-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/code-with-deep/DSA-with-C-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/code-with-deep/DSA-with-C-/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/code-with-deep/DSA-with-C-/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/code-with-deep/DSA-with-C-/tree/master/0724-find-pivot-index) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/code-with-deep/DSA-with-C-/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/code-with-deep/DSA-with-C-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/code-with-deep/DSA-with-C-/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/code-with-deep/DSA-with-C-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/code-with-deep/DSA-with-C-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/code-with-deep/DSA-with-C-/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/code-with-deep/DSA-with-C-/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/code-with-deep/DSA-with-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/code-with-deep/DSA-with-C-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/code-with-deep/DSA-with-C-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/code-with-deep/DSA-with-C-/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/code-with-deep/DSA-with-C-/tree/master/0974-subarray-sums-divisible-by-k) |
